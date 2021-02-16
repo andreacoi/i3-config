@@ -13,7 +13,10 @@ Iosevka is the primary font I used in this config file.
 
 ## Credits
 city41 for <https://github.com/city41/mate-i3-applet>
+
 mattgreer for <https://mattgreer.dev/blog/mate-and-i3/>
+
 deadc0de6 for <https://github.com/deadc0de6/i3altlayout>
 
+## Conclusions
 That's all.
