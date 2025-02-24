@@ -26,7 +26,7 @@ font pango:Noto Sans 10
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
-exec --no-startup-id "i3altlayout"
+# exec --no-startup-id "i3altlayout"
 
 #i3expo not working -blackscreen-
 #exec --no-startup-id i3expo-daemon -v -i 1
@@ -49,7 +49,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec kitty
 
 # kill focused window
 bindsym $mod+Shift+q kill
