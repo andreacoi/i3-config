@@ -3,6 +3,8 @@ This is a configuration for i3 WM.
 
 I use i3altlayout <https://github.com/deadc0de6/i3altlayout> to obtain a golden ratio windows arrangement.
 
+!NOTE! Use https://github.com/deadc0de6/i3altlayout/releases/tag/v1.0 - 1.1.2 version not working correctly.
+
 I also added two hotkeys to switch between next and previous workspace.
 
 I disabled bottom status bar and i added an applet for workspace in Mate Panels.
